@@ -15,7 +15,7 @@ window.onscroll = () => {
 
 document.getElementById("resume-button-1").addEventListener("click", () => {
   window.open(
-    "https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link",
+    "https://drive.google.com/file/d/15g2UDW4wTG-PuAzueNG76l74rw-tI8KZ/view?usp=sharing",
     "_blank"
   );
 });
